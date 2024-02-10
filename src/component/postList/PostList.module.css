@@ -1,0 +1,28 @@
+.list{
+    
+}
+.list div{
+    display: flex;
+    flex-direction: column;
+}
+.list li{
+    border-radius: 20px;
+    border: 3px solid rgba(240, 193, 83, 0.318);
+    margin-bottom: 30px;
+    background-color: white;
+    padding: 10px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.list li h2{
+    margin: 0;
+}
+.list li p{
+    font-size: 18px;
+}
+.list li a{
+text-decoration: none;
+color: brown;
+align-self: flex-end;
+}

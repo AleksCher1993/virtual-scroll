@@ -1,0 +1,25 @@
+body{
+  background-color: rgb(244, 244, 244);
+
+}
+.App{
+
+}
+.wrapper{
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+
+}
+.wrapper h1{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-top: 0;
+}
+ul{
+padding: 0;
+}
+li{
+  text-decoration: none;
+  list-style-type: none;
+}

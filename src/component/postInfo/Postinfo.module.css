@@ -1,0 +1,32 @@
+.container{
+    
+}
+.container a{
+    color: brown;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 10px;
+    border: 2px solid brown;
+    padding: 2px 10px 5px 10px;
+    transition: all 0.3s ease 0s;
+    background-color: white;
+    line-height: .8;
+}
+.container a:hover{
+    color: white;
+    background-color: brown;
+}
+.cart{
+    border-radius: 20px;
+    border: 3px solid rgba(240, 193, 83, 0.318);
+    margin-bottom: 30px;
+    background-color: white;
+    padding: 10px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 500px;
+    margin: 50px auto;
+}
+.cart p{
+    font-size: 20px;
+    line-height: 1.5;
+}
